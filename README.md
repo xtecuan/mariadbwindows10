@@ -1,2 +1,2 @@
-# mariadbwindows10
+# Mariadb Windows 10
 Settings for Mariadb on Windows when you don't have administrator privileges on your Windows 10 machine
